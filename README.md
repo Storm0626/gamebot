@@ -14,7 +14,7 @@ pretty easy
 ## discord.js
 create the folder in which the bot code will be stored
 open cmd (the command line)
-type in cd <destination> to go into a folder
+type in cd (destination) to go into a folder
 so if your folder is on the desktop and its named "botcode"
 youll first type:
   
