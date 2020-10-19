@@ -2,7 +2,7 @@
 //version 0.1
 const Discord = require("discord.js"); //library for interacting with discord
 const fs = require("fs"); //library for file system in node js
-const TOKEN = "NzY3ODI0OTQ3MTc5NDIxNzM5.X43itA.OsXLusO5KndKJi0elKpHmM83r24"; //bot token 
+const TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //bot token 
 const PREFIX = "!"; //list of prefixes that get the bot's attention
 const PREFIX2 = "!<>";
 const TEXTFIX = "3==>" //lmao
